@@ -3,5 +3,5 @@
 1. gem i bundler rails
 
 in cwd:
-rake db:migrate
-rails s
+1. rails db:migrate
+1. rails s
